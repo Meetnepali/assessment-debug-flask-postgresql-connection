@@ -1,2 +1,1 @@
-# assessment-debug-flask-postgresql-connection
-Infrastructure Assessment Task: You are provided with a Flask application source code and docker-compose file. The application is co
+This Flask application is supposed to connect to a PostgreSQL database, but something is wrong and prevents the connection. The application is containerized with Docker and uses Docker Compose. Your task is to debug and fix the issue. You can start the application by running the run.sh script.
